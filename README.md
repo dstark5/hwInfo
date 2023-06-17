@@ -1,7 +1,6 @@
 # hwInfo
 
-A Simple Python App for Hardware Info monitoring using 
-PyQt5.
+A Simple Python App for Hardware Info and usage monitoring using PyQt5.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
